@@ -1,0 +1,90 @@
+alias: Garage Door Lights
+description: ""
+mode: restart
+triggers:
+  - entity_id:
+      - cover.garage_door_garage_door
+    to:
+      - open
+      - closed
+    id: stopped
+    trigger: state
+  - entity_id:
+      - cover.garage_door_garage_door
+    to:
+      - opening
+      - closing
+    id: moving
+    trigger: state
+conditions: []
+actions:
+  - if:
+      - condition: trigger
+        id:
+          - moving
+    then:
+      - parallel:
+          - sequence:
+              - action: light.turn_on
+                metadata: {}
+                data: {}
+                target:
+                  entity_id: light.garage_light
+              - delay:
+                  hours: 0
+                  minutes: 5
+                  seconds: 0
+                  milliseconds: 0
+              - action: light.turn_off
+                target:
+                  entity_id:
+                    - light.garage_light
+                data: {}
+            alias: Garage Light
+          - action: select.select_option
+            target:
+              entity_id: select.garage_door_light_preset
+            data:
+              option: Move
+    else:
+      - alias: Garage Door Light
+        sequence:
+          - action: select.select_option
+            target:
+              entity_id: select.garage_door_light_preset
+            data:
+              option: Stop
+            alias: Stop
+          - delay:
+              hours: 0
+              minutes: 0
+              seconds: 2
+              milliseconds: 0
+          - action: select.select_option
+            target:
+              entity_id: select.garage_door_light_preset
+            data:
+              option: Full
+            alias: Full
+          - delay:
+              hours: 0
+              minutes: 0
+              seconds: 5
+              milliseconds: 0
+          - action: select.select_option
+            target:
+              entity_id: select.garage_door_light_preset
+            data:
+              option: Spots
+            alias: Spots
+          - delay:
+              hours: 0
+              minutes: 5
+              seconds: 0
+              milliseconds: 0
+          - alias: Flag ZA
+            action: select.select_option
+            target:
+              entity_id: select.garage_door_light_preset
+            data:
+              option: Flag ZA (Red)

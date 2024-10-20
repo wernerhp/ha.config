@@ -1,0 +1,1309 @@
+{
+    "0": {},
+    "1": {
+        "n": "Flag ZA (Red)",
+        "on": true,
+        "bri": 255,
+        "transition": 10,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 57,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "n": "Red",
+                "col": [
+                    [
+                        222,
+                        56,
+                        49
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        222,
+                        56,
+                        49
+                    ]
+                ],
+                "fx": 88,
+                "sx": 64,
+                "ix": 128,
+                "pal": 0,
+                "sel": true,
+                "rev": false,
+                "mi": false
+            },
+            {
+                "id": 1,
+                "start": 57,
+                "stop": 68,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "n": "White",
+                "col": [
+                    [
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        255,
+                        255
+                    ]
+                ],
+                "fx": 88,
+                "sx": 64,
+                "ix": 128,
+                "pal": 0,
+                "sel": true,
+                "rev": false,
+                "mi": false
+            },
+            {
+                "id": 2,
+                "start": 68,
+                "stop": 102,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "n": "Green",
+                "col": [
+                    [
+                        0,
+                        122,
+                        77
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        122,
+                        77
+                    ]
+                ],
+                "fx": 88,
+                "sx": 64,
+                "ix": 128,
+                "pal": 0,
+                "sel": true,
+                "rev": false,
+                "mi": false
+            },
+            {
+                "id": 3,
+                "start": 102,
+                "stop": 113,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "n": "Gold",
+                "col": [
+                    [
+                        255,
+                        182,
+                        18
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        182,
+                        18
+                    ]
+                ],
+                "fx": 88,
+                "sx": 64,
+                "ix": 128,
+                "pal": 0,
+                "sel": true,
+                "rev": false,
+                "mi": false
+            },
+            {
+                "id": 4,
+                "start": 113,
+                "stop": 142,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "n": "Black",
+                "col": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 88,
+                "sx": 64,
+                "ix": 128,
+                "pal": 0,
+                "sel": true,
+                "rev": false,
+                "mi": false
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ]
+    },
+    "2": {
+        "on": true,
+        "bri": 255,
+        "transition": 5,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 142,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 60,
+                "sx": 192,
+                "ix": 224,
+                "pal": 0,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "n": "Move"
+    },
+    "4": {
+        "on": true,
+        "bri": 255,
+        "transition": 10,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 142,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 85,
+                "sx": 128,
+                "ix": 24,
+                "pal": 0,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "n": "Spots"
+    },
+    "5": {
+        "on": true,
+        "bri": 255,
+        "transition": 10,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 142,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 0,
+                "sx": 128,
+                "ix": 246,
+                "pal": 0,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "n": "Full"
+    },
+    "6": {
+        "on": false,
+        "bri": 255,
+        "transition": 10,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 1,
+                "stop": 142,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        255,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 0,
+                "sx": 128,
+                "ix": 246,
+                "pal": 0,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": false,
+                "rev": false,
+                "mi": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "n": "Off"
+    },
+    "7": {
+        "on": true,
+        "bri": 255,
+        "transition": 5,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 142,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "col": [
+                    [
+                        255,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "fx": 60,
+                "sx": 224,
+                "ix": 246,
+                "pal": 0,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "n": "Police"
+    },
+    "8": {
+        "on": true,
+        "bri": 255,
+        "transition": 10,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 142,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "n": "",
+                "col": [
+                    [
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 60,
+                "sx": 64,
+                "ix": 113,
+                "pal": 0,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "n": "On"
+    },
+    "9": {
+        "on": true,
+        "bri": 255,
+        "transition": 5,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 142,
+                "grp": 1,
+                "spc": 0,
+                "of": 0,
+                "on": true,
+                "frz": false,
+                "bri": 255,
+                "cct": 127,
+                "set": 0,
+                "n": "",
+                "col": [
+                    [
+                        0,
+                        255,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "fx": 0,
+                "sx": 192,
+                "ix": 246,
+                "pal": 0,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "sel": true,
+                "rev": false,
+                "mi": false,
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "si": 0,
+                "m12": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "n": "Stop"
+    }
+}
